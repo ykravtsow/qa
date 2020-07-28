@@ -1,5 +1,2 @@
 .idea/
-src/.cache/
-src/__pycache__/
-src/2/out.json
 venv/
