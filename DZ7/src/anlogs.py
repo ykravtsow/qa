@@ -268,7 +268,7 @@ for f in os.listdir(d):
         if f == needle:
             files.append(os.path.join(d, needle))
 
-print(files)
+#print(files)
 
 # is list empty
 if len(files) == 0:
